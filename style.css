@@ -1,3 +1,9 @@
 h1{
 	text-align: center
 }
+
+.red-line{
+	width: 100px;
+	height: 3px;
+	background: red;
+}
